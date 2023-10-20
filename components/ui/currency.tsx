@@ -9,6 +9,16 @@ interface CurrencyProps {
 }
 
 const Currency: React.FC<CurrencyProps> = ({ value }) => {
+  const [isMounted, setIsMounted] = useState(false);
+
+  useEffect(() => {
+    setIsMounted(true);
+  }, []);
+
+  if (!isMounted) {
+    return null;
+  }
+
   return (
     <div className="font-semi-bold">{formatter.format(Number(value))}</div>
   );
