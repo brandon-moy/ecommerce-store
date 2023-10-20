@@ -1,3 +1,7 @@
+"use client";
+
+import { useState, useEffect } from "react";
+
 import { formatter } from "@/lib/utils";
 
 interface CurrencyProps {
