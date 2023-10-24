@@ -61,7 +61,7 @@ cp .env.example .env
 
 4. Update the .env values
 
-After you create a new store, copy the url listed in eCommerce Admin dashboard with the storeId and use that to update `NEXT_PUBLIC_API_URL`.
+After you create a new store, copy the url listed in eCommerce Admin settings page with the storeId and use that to update `NEXT_PUBLIC_API_URL`.
 
 If in development, the url should look like `http://localhost:3000/api/{storeId}`
 
