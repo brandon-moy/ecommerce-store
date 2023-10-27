@@ -8,7 +8,9 @@ I have some interest in eCommerce and online store so I wanted to try to build o
 
 ## 🔗 Live Example
 
-Try out the application live <a href="https://github.com/brandon-moy/ecommerce-store">here</a>!
+Try out a live example <a href="https://buzzybees.brandonmoy.com/">here</a>!
+
+(Live example is from <a href="https://github.com/brandon-moy/buzzy-bees-store">this</a> repository. It was cloned from the ecommerce-store repository and just added different styling for a store theme)
 
 ## 💻 Technologies Used
 
