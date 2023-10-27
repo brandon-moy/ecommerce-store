@@ -37,6 +37,18 @@ Try out a live example <a href="https://buzzybees.brandonmoy.com/">here</a>!
 
 ## Preview
 
+### Home Page
+
+![Homepage](/public/home.png "Homepage")
+
+### Users can view products and product details
+
+![View products](/public/products.gif "View products")
+
+### Users can view cart and checkout
+
+![View cart and checkout](/public/checkout.gif "View cart and checkout")
+
 ## Getting Started
 
 Things you will need:
